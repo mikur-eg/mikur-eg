@@ -1,6 +1,6 @@
 ### Hi there, I'm Michał Kurek👋
 
-### I'm a full stack .net developer in Team Gambit.
+### I'm a senior software developer in Team Gambit.
 
 - 🔭 I’m currently working mostly on EG Retail's Loyalty products.
 - 📫 How to reach team Gambit:
