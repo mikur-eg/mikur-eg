@@ -2,7 +2,7 @@
 
 ### I'm a senior software developer in Team Gambit.
 
-- 🔭 I’m currently working mostly on EG Retail's Loyalty products.
+- 🔭 I’m currently working mostly on EG Retail's Loyalty and Customer modules.
 - 📫 How to reach team Gambit:
   - [Contact Information](https://confluence.eg.dk/display/RTL/Contact+information)
 
